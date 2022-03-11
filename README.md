@@ -1,4 +1,4 @@
-# Bot-de-Trafing   
+# Bot-de-Trading   
 
 En  este script se muestra como realizar un calculo para entradas y salidas 
 en el trading de las acciones de Google, utlizando las medias moviles de 100 y 30 
